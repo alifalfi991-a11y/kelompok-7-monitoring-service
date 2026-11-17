@@ -7,8 +7,8 @@ Monitoring Service memeriksa ketersediaan layanan Mini-LMS secara langsung tanpa
 | No | Nama Lengkap | NIM |
 |---:|---|---|
 | 1 | Alif Alfi Takdir | 230209502093 |
-| 2 | Muhammad Iyad Gani | 230209502093 |
-| 3 | Irfan Jamal | 230209502093 |
+| 2 | Ahmad Iyad Gani | 2302095502010 |
+| 3 | Irfan Jamal | 230209502023 |
 | 4 | Maikel Basten | 230209502093 |
 | 5 | Arwin | 230209502093 |
 
